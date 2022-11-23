@@ -1,0 +1,5 @@
+import fs from 'fs'
+import path from 'path'
+import matter from 'gray-matter'
+
+const getUsers = path.join(process.cwd(), '..static/movies_examples')
