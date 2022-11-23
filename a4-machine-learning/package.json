@@ -1,0 +1,23 @@
+{
+  "name": "a4-machine-learning",
+  "version": "1.0.0",
+  "description": "Machine learning assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.lnu.se:2dv515/student/jn223ck/a4-machine-learning.git"
+  },
+  "author": "Jonas Nilsson",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node": "^16.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.29"
+  }
+}
